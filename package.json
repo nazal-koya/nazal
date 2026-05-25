@@ -1,0 +1,19 @@
+{
+  "name": "superprofile-booking-bio",
+  "version": "1.0.0",
+  "description": "Premium conversion-focused booking and link-in-bio website custom built in the style of Superprofile.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve .",
+    "start": "npx -y serve ."
+  },
+  "keywords": [
+    "premium",
+    "link-in-bio",
+    "booking",
+    "custom-calendar",
+    "dark-minimalist"
+  ],
+  "author": "Antigravity AI",
+  "license": "MIT"
+}
